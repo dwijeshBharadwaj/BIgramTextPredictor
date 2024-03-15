@@ -1,1 +1,1 @@
-# BIgramTextPredictor
+# BigramTextPredictor
